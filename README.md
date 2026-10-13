@@ -60,7 +60,17 @@ Built in Tableau on top of the 4 KPI views:
 - **Revenue by State** — bar chart, colored by late-delivery rate
 - **Revenue vs. Review Score (seller risk)** — scatter plot of all sellers with ≥20 delivered orders, flagging sellers with high revenue but low satisfaction (`avg_review_score < 3`)
 
-![Dashboard overview](dashboard/screenshots/dashboard_overview.png)
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/E-Commerce-Sales-Customer-Analytics/blob/main/dashboard.review/Screenshot%202026-10-12%20120958.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/E-Commerce-Sales-Customer-Analytics/blob/main/dashboard.review/Screenshot%202026-10-12%20121032.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/E-Commerce-Sales-Customer-Analytics/blob/main/dashboard.review/Screenshot%202026-10-12%20121119.png">
+</p>
 
 ## Key Findings
 
